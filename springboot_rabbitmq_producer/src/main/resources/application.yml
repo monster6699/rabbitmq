@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 39.106.78.168
+    port: 5672
+    virtual-host: /monster
+    username: monster
+    password: zaq1xsw2
