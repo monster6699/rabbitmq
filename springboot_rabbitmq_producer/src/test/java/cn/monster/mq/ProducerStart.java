@@ -17,6 +17,7 @@ public class ProducerStart {
 
     @Test
     public void producerMessage(){
+        System.out.println("start.............................");
         rabbitTemplate.convertAndSend(RabbitMQConfig.SPRINGBOOT_TOPIC_EXCHANGE, "monster.mq", "数据message请查收");
     }
 }

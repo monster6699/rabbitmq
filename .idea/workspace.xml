@@ -1,7 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a724380-6c5b-4a17-947c-9a76776ee5f3" name="Default Changelist" comment="" />
+    <list default="true" id="6a724380-6c5b-4a17-947c-9a76776ee5f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/rabbitma_consumer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/src/main/java/cn/monster/PubSub/StartConsumer1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/src/main/java/cn/monster/PubSub/StartConsumer2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/src/main/java/cn/monster/mq/StartConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/src/main/java/cn/monster/routing/StartConsumer1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/src/main/java/cn/monster/routing/StartConsumer2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/src/main/java/cn/monster/topic/StartConsumer1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/src/main/java/cn/monster/topic/StartConsumer2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/src/main/java/cn/monster/workQueues/StartConsumer1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/src/main/java/cn/monster/workQueues/StartConsumer2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/META-INF/rabbitma_consumer.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/PubSub/StartConsumer1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/PubSub/StartConsumer1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/PubSub/StartConsumer2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/PubSub/StartConsumer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/mq/StartConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/mq/StartConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/routing/StartConsumer1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/routing/StartConsumer1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/routing/StartConsumer2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/routing/StartConsumer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/topic/StartConsumer1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/topic/StartConsumer1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/topic/StartConsumer2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/topic/StartConsumer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/workQueues/StartConsumer1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/workQueues/StartConsumer1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/workQueues/StartConsumer2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitma_consumer/target/classes/cn/monster/workQueues/StartConsumer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq_producer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq_producer/rabbitmq_producer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq_producer/src/main/java/cn/monster/PubSub/StartProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq_producer/src/main/java/cn/monster/mq/StartProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq_producer/src/main/java/cn/monster/routing/StartProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq_producer/src/main/java/cn/monster/topic/StartProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq_producer/src/main/java/cn/monster/workQueues/StartProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq_producer/target/classes/cn/monster/PubSub/StartProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq_producer/target/classes/cn/monster/mq/StartProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq_producer/target/classes/cn/monster/routing/StartProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq_producer/target/classes/cn/monster/topic/StartProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq_producer/target/classes/cn/monster/workQueues/StartProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/spring_rabbitmq_consumer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/src/main/java/cn/monster/rabbitmq/listener/FanoutListener1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/src/main/java/cn/monster/rabbitmq/listener/FanoutListener2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/src/main/java/cn/monster/rabbitmq/listener/SpringQueueListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/src/main/java/cn/monster/rabbitmq/listener/TopicListenerStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/src/main/java/cn/monster/rabbitmq/listener/TopicListenerWell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/src/main/java/cn/monster/rabbitmq/listener/TopicListenerWell2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/src/main/resources/rabbitmq.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/src/main/resources/spring-rabbitmq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/src/test/java/RabbitMQTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/target/classes/cn/monster/rabbitmq/listener/FanoutListener1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/target/classes/cn/monster/rabbitmq/listener/FanoutListener2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/target/classes/cn/monster/rabbitmq/listener/SpringQueueListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/target/classes/cn/monster/rabbitmq/listener/TopicListenerStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/target/classes/cn/monster/rabbitmq/listener/TopicListenerWell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/target/classes/cn/monster/rabbitmq/listener/TopicListenerWell2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/target/classes/rabbitmq.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/target/classes/spring-rabbitmq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_consumer/target/test-classes/RabbitMQTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_producer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_producer/spring_rabbitmq_producer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_producer/src/main/java/cn/monster/ProducerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_producer/src/main/resources/rabbitmq.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_producer/src/main/resources/spring-rabbitmq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_producer/src/test/java/cn/monster/spring/RabbitMQTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_producer/target/classes/rabbitmq.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_producer/target/classes/spring-rabbitmq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_producer/target/test-classes/META-INF/spring_rabbitmq_producer.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_rabbitmq_producer/target/test-classes/cn/monster/spring/RabbitMQTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_consumer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_consumer/springboot_rabbitmq_consumer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/java/cn/monster/ConsumerStart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/java/cn/monster/mq/ConsumerMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_producer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_producer/springboot_rabbitmq_producer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/java/cn/monster/config/RabbitMQConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/java/cn/monster/mq/ProducerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_producer/src/test/java/cn/monster/mq/ProducerStart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_producer/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_producer/target/classes/cn/monster/config/RabbitMQConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_producer/target/classes/cn/monster/mq/ProducerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_producer/target/test-classes/META-INF/springboot_rabbitmq_producer.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_rabbitmq_producer/target/test-classes/cn/monster/mq/ProducerStart.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/rabbitma_consumer/target/" />
     <ignored path="$PROJECT_DIR$/rabbitmq_producer/target/" />
@@ -21,19 +193,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rabbitmq_producer/src/main/java/cn/monster/routing/StartProducer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1178">
-              <caret line="68" column="80" selection-start-line="68" selection-start-column="75" selection-end-line="68" selection-end-column="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/java/cn/monster/mq/ProducerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="190">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,19 +205,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_rabbitmq_producer/src/main/java/cn/monster/ProducerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_producer/src/test/java/cn/monster/mq/ProducerStart.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="19" column="78" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="78" />
+              <caret line="19" column="54" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,17 +219,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_consumer/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="456">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -83,11 +228,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/java/cn/monster/config/RabbitMQConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+            <state relative-caret-position="366">
+              <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+                <element signature="e#859#860#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitigore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_rabbitmq_producer/src/main/resources/rabbitmq.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="27" selection-start-column="14" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_rabbitmq_producer/src/main/resources/spring-rabbitmq.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="60" column="79" selection-start-line="60" selection-start-column="79" selection-end-line="60" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -95,8 +269,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/java/cn/monster/ConsumerStart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="209">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#238#239#0" expanded="true" />
@@ -109,8 +283,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/java/cn/monster/mq/ConsumerMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="171">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,10 +293,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rabbitmq_producer/src/main/java/cn/monster/PubSub/StartProducer.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.1.5.RELEASE/spring-rabbit-2.1.5.RELEASE.jar!/org/springframework/amqp/rabbit/annotation/RabbitListener.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="53" column="61" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="61" />
+            <state relative-caret-position="190">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -135,6 +309,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -159,7 +336,6 @@
         <option value="$PROJECT_DIR$/rabbitmq_producer/src/main/java/cn/monster/routing/StartProducer.java" />
         <option value="$PROJECT_DIR$/spring_rabbitmq_producer/pom.xml" />
         <option value="$PROJECT_DIR$/spring_rabbitmq_producer/src/main/resources/rabbitmq.properties" />
-        <option value="$PROJECT_DIR$/spring_rabbitmq_producer/src/main/resources/spring-rabbitmq.xml" />
         <option value="$PROJECT_DIR$/spring_rabbitmq_producer/src/test/java/cn/monster/spring/RbbitMQTest.java" />
         <option value="$PROJECT_DIR$/spring_rabbitmq_producer/src/test/java/cn/monster/spring/RabbitMQTest.java" />
         <option value="$PROJECT_DIR$/spring_rabbitmq_consumer/src/main/resources/spring-rabbitmq.xml" />
@@ -172,14 +348,19 @@
         <option value="$PROJECT_DIR$/spring_rabbitmq_consumer/pom.xml" />
         <option value="$PROJECT_DIR$/spring_rabbitmq_consumer/src/test/java/RabbitMQTest.java" />
         <option value="$PROJECT_DIR$/spring_rabbitmq_producer/src/main/java/cn/monster/ProducerApplication.java" />
-        <option value="$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/java/cn/monster/mq/ProducerApplication.java" />
-        <option value="$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springboot_rabbitmq_consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/java/cn/monster/ConsumerStart.java" />
-        <option value="$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/java/cn/monster/mq/ConsumerMessage.java" />
         <option value="$PROJECT_DIR$/springboot_rabbitmq_producer/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_rabbitmq_producer/src/test/java/ProducerStart.java" />
+        <option value="$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot_rabbitmq_producer/src/test/java/cn/monster/mq/ProducerStart.java" />
+        <option value="$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/java/cn/monster/mq/ProducerApplication.java" />
+        <option value="$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/java/cn/monster/mq/ConsumerMessage.java" />
+        <option value="$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/java/cn/monster/ConsumerStart.java" />
+        <option value="$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/resources/application-consumer.yml" />
         <option value="$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/java/cn/monster/config/RabbitMQConfig.java" />
+        <option value="$PROJECT_DIR$/spring_rabbitmq_producer/src/main/resources/spring-rabbitmq.xml" />
+        <option value="$PROJECT_DIR$/.gitigore" />
       </list>
     </option>
   </component>
@@ -226,37 +407,18 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
               <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_rabbitmq_consumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_rabbitmq_consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_rabbitmq_consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
@@ -345,10 +507,94 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mq" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.amqp:spring-amqp:2.1.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.amqp:spring-amqp:2.1.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-amqp-2.1.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.amqp:spring-amqp:2.1.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-amqp-2.1.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="amqp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.amqp:spring-amqp:2.1.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-amqp-2.1.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="amqp" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.amqp:spring-rabbit:2.1.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.amqp:spring-rabbit:2.1.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-rabbit-2.1.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.amqp:spring-rabbit:2.1.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-rabbit-2.1.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.amqp:spring-rabbit:2.1.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-rabbit-2.1.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbit" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-test:2.1.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-test:2.1.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-test-2.1.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-test:2.1.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-test-2.1.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-test:2.1.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-test-2.1.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,11 +603,13 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring_rabbitmq_consumer/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -379,6 +627,7 @@
       <recent name="cn.monster.workQueues" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Monster\IdeaProjects\rabbitmq\springboot_rabbitmq_consumer\src\main\resources" />
       <recent name="C:\Users\Monster\IdeaProjects\rabbitmq\spring_rabbitmq_consumer\src\main\resources" />
       <recent name="C:\Users\Monster\IdeaProjects\rabbitmq\rabbitma_consumer\src\main\java\cn\monster\topic" />
       <recent name="C:\Users\Monster\IdeaProjects\rabbitmq\rabbitma_consumer\src\main\java\cn\monster\routing" />
@@ -408,22 +657,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RabbitMQTest.fanoutQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_rabbitmq_producer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.monster.spring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.monster.spring" />
-      <option name="MAIN_CLASS_NAME" value="cn.monster.spring.RabbitMQTest" />
-      <option name="METHOD_NAME" value="fanoutQueueTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RabbitMQTest.start" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring_rabbitmq_consumer" />
       <option name="PACKAGE_NAME" value="" />
@@ -446,6 +679,19 @@
       <option name="MAIN_CLASS_NAME" value="cn.monster.spring.RabbitMQTest" />
       <option name="METHOD_NAME" value="topicQueueTest" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot_rabbitmq_consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.monster.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.monster.ConsumerStart" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -528,10 +774,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ProducerStart.producerMessage" />
+        <item itemvalue="Spring Boot.ConsumerStart" />
         <item itemvalue="Spring Boot.ProducerApplication" />
         <item itemvalue="JUnit.RabbitMQTest.start" />
         <item itemvalue="JUnit.RabbitMQTest.topicQueueTest" />
-        <item itemvalue="JUnit.RabbitMQTest.fanoutQueueTest" />
       </list>
     </recent_temporary>
   </component>
@@ -553,53 +799,61 @@
       <workItem from="1611193194863" duration="4849000" />
       <workItem from="1611198968402" duration="6755000" />
       <workItem from="1611212049960" duration="2417000" />
+      <workItem from="1611226875891" duration="159000" />
+      <workItem from="1611277758286" duration="9722000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RbbitMQTest_queueTest - 2021.01.21 at 09h 56m 28s.xml">
-      <configuration name="RbbitMQTest.queueTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RabbitMQTest_fanoutQueueTest - 2021.01.21 at 10h 08m 42s.xml">
-      <configuration name="RabbitMQTest.fanoutQueueTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RabbitMQTest_topicQueueTest - 2021.01.21 at 10h 10m 17s.xml">
-      <configuration name="RabbitMQTest.topicQueueTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RabbitMQTest_start - 2021.01.21 at 10h 33m 32s.xml">
-      <configuration name="RabbitMQTest.start" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProducerStart_producerMessage - 2021.01.21 at 15h 01m 25s.xml">
-      <configuration name="ProducerStart.producerMessage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProducerStart_producerMessage - 2021.01.21 at 15h 05m 25s.xml">
-      <configuration name="ProducerStart.producerMessage" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ProducerStart_producerMessage - 2021.01.21 at 15h 07m 06s.xml">
       <configuration name="ProducerStart.producerMessage" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ProducerStart_producerMessage - 2021.01.21 at 15h 25m 33s.xml">
       <configuration name="ProducerStart.producerMessage" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ProducerStart_producerMessage - 2021.01.22 at 09h 34m 35s.xml">
+      <configuration name="ProducerStart.producerMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProducerStart_producerMessage - 2021.01.22 at 09h 50m 23s.xml">
+      <configuration name="ProducerStart.producerMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProducerStart_producerMessage - 2021.01.22 at 09h 54m 55s.xml">
+      <configuration name="ProducerStart.producerMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProducerStart_producerMessage - 2021.01.22 at 09h 56m 33s.xml">
+      <configuration name="ProducerStart.producerMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProducerStart_producerMessage - 2021.01.22 at 09h 58m 29s.xml">
+      <configuration name="ProducerStart.producerMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProducerStart_producerMessage - 2021.01.22 at 09h 58m 58s.xml">
+      <configuration name="ProducerStart.producerMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProducerStart_producerMessage - 2021.01.22 at 10h 05m 37s.xml">
+      <configuration name="ProducerStart.producerMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProducerStart_producerMessage - 2021.01.22 at 11h 22m 34s.xml">
+      <configuration name="ProducerStart.producerMessage" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34769000" />
+    <option name="totallyTimeSpent" value="44650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17750533" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27665246" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32047158" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25643778" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -607,34 +861,28 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3290461" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.39592275" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.3290461" />
       <window_info anchor="bottom" id="Spring" order="14" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.17590618" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.17590618" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rabbitma_consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="30" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.9.0/amqp-client-5.9.0.jar!/com/rabbitmq/client/DefaultConsumer.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -870,20 +1118,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring_rabbitmq_producer/src/main/java/cn/monster/springboot.java" />
-    <entry file="file://$PROJECT_DIR$/spring_rabbitmq_producer/src/main/resources/spring-rabbitmq.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_rabbitmq_producer/src/main/resources/rabbitmq.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_producer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -898,32 +1132,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_consumer/pom.xml">
+    <entry file="file://$PROJECT_DIR$/spring_rabbitmq_producer/src/main/java/cn/monster/ProducerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/java/cn/monster/ConsumerStart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/java/cn/monster/mq/ConsumerMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -934,34 +1146,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring_rabbitmq_producer/src/main/java/cn/monster/ProducerApplication.java">
+    <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/resources/application.yml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.1.5.RELEASE/spring-amqp-2.1.5.RELEASE.jar!/org/springframework/amqp/core/Exchange.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="114">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/2.1.4.RELEASE/spring-boot-test-2.1.4.RELEASE.jar!/org/springframework/boot/test/context/SpringBootTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/java/cn/monster/ConsumerStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/java/cn/monster/mq/ProducerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/java/cn/monster/config/RabbitMQConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        <state relative-caret-position="190">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -971,10 +1199,67 @@
     <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_producer/src/test/java/cn/monster/mq/ProducerStart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="19" column="78" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="78" />
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_rabbitmq_producer/src/main/resources/rabbitmq.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_rabbitmq_producer/src/main/resources/spring-rabbitmq.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="60" column="79" selection-start-line="60" selection-start-column="79" selection-end-line="60" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.1.5.RELEASE/spring-rabbit-2.1.5.RELEASE.jar!/org/springframework/amqp/rabbit/annotation/RabbitListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_consumer/src/main/java/cn/monster/mq/ConsumerMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_rabbitmq_producer/src/main/java/cn/monster/config/RabbitMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitigore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1028,11 +1313,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|spring_rabbitmq_producer</last-edited>
+          <last-edited>springboot_rabbitmq_consumer</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

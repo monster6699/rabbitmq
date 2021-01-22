@@ -6,6 +6,9 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+import java.util.Collection;
+import java.util.Map;
+
 @Configuration
 public class RabbitMQConfig {
     //交换机名称
@@ -15,13 +18,14 @@ public class RabbitMQConfig {
 
 
     @Bean("topicExchange")
-    public Exchange topicExchange(){
-        return ExchangeBuilder.topicExchange(SPRINGBOOT_TOPIC_EXCHANGE).durable(true).build();
+    public Exchange topicExchange() {
+        System.out.println("执行到交换机。。。。。。。。。。。。。。。。。。。。。");
+        return  ExchangeBuilder.topicExchange(SPRINGBOOT_TOPIC_EXCHANGE).durable(true).build();
     }
 
     @Bean("topicQueue")
     public Queue topicQueue() {
-        return QueueBuilder.durable(SPRINGBOOT_QUEUE).build();
+        return new Queue(SPRINGBOOT_QUEUE, true, false, false);
     }
 
 
