@@ -12,9 +12,6 @@ public class RabbitMQTest {
     @Test
     public void start() {
 
-        while (true){
-
-        }
     }
 
 }
