@@ -26,7 +26,7 @@
     <!--定义广播交换机中的持久化队列，不存在则自动创建-->
     <rabbit:queue id="spring_topic_queue_ttl" name="spring_topic_queue_ttl" auto-declare="true">
         <rabbit:queue-arguments>
-            <entry key="x-message-ttl" value="100000" />
+            <entry key="x-message-ttl" value="200000" value-type="java.lang.Integer"/>
         </rabbit:queue-arguments>
     </rabbit:queue>
 

@@ -29,6 +29,12 @@ public class RabbitMQTTLTest {
         });
     }
 
+    @Test
+    public void topicQueueTtlTest() {
+        rabbitTemplate.convertAndSend("spring_topic_exchange_ttl", "monster.aa", "topic queue ttl message");
+    }
+
+
 
 
 
